@@ -25,7 +25,8 @@ In order to run the Assembler and Simulator first provide the persmission to the
 
 Use the command  `chmod +x run` to provide the permission to the execute the files
 
-Then execute the run file in Automated Testing folder , `/CO_M21_Assignment-main/automatedTesting/run` , using `./run` command
+Then execute the run file in Automated Testing folder , `/CO_M21_Assignment-main/automatedTesting/run` , using `./run` command 
+(These are shell commands please use any linux/unix terminal)
 
 ## Result 
 The automated test cases are run and provide the result if they have passed or not.
