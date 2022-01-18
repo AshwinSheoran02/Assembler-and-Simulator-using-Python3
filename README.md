@@ -41,5 +41,7 @@ The graphs of the Test cases for Simulator are also plotted
 If you wish to run your own Test cases then download the "CPH Judge" Extension on VScode and then Run the Testcase on the files 
 `assembler.py` and `simulator.py`
 
+<img width="365" alt="cph 1" src="https://user-images.githubusercontent.com/88393756/149878654-22cda235-3a7c-4f5e-8310-f415efb55244.png">
+
 <p align="center">
   Made By Ashwin Sheoran , Krishnam Omar and Harshit Garg
