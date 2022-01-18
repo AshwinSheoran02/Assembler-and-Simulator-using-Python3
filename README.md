@@ -22,5 +22,24 @@ In order to run the Assembler and Simulator first provide the persmission to the
 `/CO_M21_Assignment-main/automatedTesting/run`
 `/CO_M21_Assignment-main/Simple-Assembler/run`
 `CO_M21_Assignment-main/SimpleSimulator/run`
+
 Use the command  `chmod +x run` to provide the permission to the execute the files
+
 Then execute the run file in Automated Testing folder , `/CO_M21_Assignment-main/automatedTesting/run` , using `./run` command
+
+## Result 
+The automated test cases are run and provide the result if they have passed or not.
+
+
+<img width="684" alt="res1" src="https://user-images.githubusercontent.com/88393756/149878052-4030b288-b724-49a5-9bde-62cacfd547d9.png">
+
+
+The graphs of the Test cases for Simulator are also plotted
+<img width="642" alt="g1" src="https://user-images.githubusercontent.com/88393756/149878120-2807a2a4-2720-4843-81b4-52c2cf80b0c3.png">
+
+## Running your own Test Cases
+If you wish to run your own Test cases then download the "CPH Judge" Extension on VScode and then Run the Testcase on the files 
+`assembler.py` and `simulator.py`
+
+<p align="center">
+  Made By Ashwin Sheoran , Krishnam Omar and Harshit Garg
