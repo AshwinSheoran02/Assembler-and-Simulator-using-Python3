@@ -9,7 +9,7 @@ The Folders have Folders named `Simple-Assembler` `SimpleSimulator` `AutomatedTe
 ## Contents
 
 ### Simpler Assembler
-This has the assembler program which converts given assembly code into binary language.
+This has the assembler program which converts given assembly code into binary language using python3.
 
 ### Simple Simulator
 This has the simulation program which shows the values of the registers at different instances when a binary code gets runned.
@@ -45,4 +45,4 @@ If you wish to run your own Test cases then download the "CPH Judge" Extension o
 <img width="365" alt="cph 1" src="https://user-images.githubusercontent.com/88393756/149878654-22cda235-3a7c-4f5e-8310-f415efb55244.png">
 
 <p align="center">
-  Made By Ashwin Sheoran , Krishnam Omar and Harshit Garg
+  Made By Ashwin Sheoran , Krishnam Omar and Harshit Garg.
